@@ -1,7 +1,19 @@
 {
-	"title" : "Example article",
+	"title" : "First article",
 	"date" : "10/11/2011",
-	"author" : "Glog"
+	"author" : "dam"
 }
 
-An example of a Glog article.
+#Article
+My first Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua.
+##Part two
+Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat.
+###Something
+Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur.
+> Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
